@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
+    <foreignObject viewBox="0 0 120 120" width="180" height="100">
         <style>
             @keyframes bounce {
             0%   { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
@@ -15,7 +15,7 @@
             h1 {
             <!-- width: 120px; -->
             line-height: 20px;
-            padding-top: 70px;
+            padding-top: 30px;
             text-align: center;
             font: 600 36px/1.5 Helvetica ,Arial ,sans-serif;
             color: rgb(52, 73, 94);
@@ -24,7 +24,6 @@
             }
         </style>
         <div class="container" xmlns="http://www.w3.org/1999/xhtml">
-
             <h1>Hi, There</h1>
         </div>
     </foreignObject>

@@ -1,2 +1,5 @@
 
- <img align="center" width="600" height="200" src="./welcome.svg">
+<p align="center">
+    <img src="./welcome.svg">
+</p>
+ 
