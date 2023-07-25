@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg">
-    <foreignObject viewBox="0 0 120 120" width="180" height="100">
+<svg viewBox="0 0 120 120" width="180" height="100" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="180" height="100">
         <style>
             @keyframes bounce {
             0%   { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
@@ -21,6 +21,10 @@
             color: rgb(52, 73, 94);
             transform-origin: bottom;
             animation: 3s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
+            }
+            .container {
+                display: flex;
+                justify-content: center;
             }
         </style>
         <div class="container" xmlns="http://www.w3.org/1999/xhtml">
