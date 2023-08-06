@@ -16,11 +16,11 @@ I'm always open to new ideas and opportunities.
 </samp>
 
 <br/>
-<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vitaliisili)
 
+<br/>
 
 # 💻 Tech Stack:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=800&lines=For+BackEnd+Java%2C+Python%2C+Spring+Boot%2C+FastApi+and+Django;For+FrontEnd+JavaScript%2C+Html%2C+Css%2C+React+%2C+NodeJs%2C+Bootstrap+and+JQuery;Database+Postgres%2C+MySql;Automation+Jenkins%2C+Selenium;Preferable+IDE+Intellij+IDEA%2C+PyCharm%2C+WebStorm)](https://git.io/typing-svg)
@@ -35,7 +35,7 @@ I'm always open to new ideas and opportunities.
 <br/>
 <br/>
 
-### GitHub Stats
+# 📊 GitHub Stats:
 [//]: # (STATS SECTION)
 <div align="center">
 <a href="https://github.com/vitaliisili/convoychat">
