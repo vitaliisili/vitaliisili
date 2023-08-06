@@ -17,7 +17,7 @@ I'm always open to new ideas and opportunities.
 
 <br/>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vitaliisili)
 
 <br/>
@@ -33,7 +33,6 @@ I'm always open to new ideas and opportunities.
 </p>
 
 <br/>
-<br/>
 
 # 📊 GitHub Stats:
 [//]: # (STATS SECTION)
@@ -45,6 +44,7 @@ I'm always open to new ideas and opportunities.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vitaliisili&theme=transparent&show_icons=true&card_width=320"/>
 </a>
 </div>
+
 <br/>
 
 <p align="center">
