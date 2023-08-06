@@ -7,8 +7,8 @@
 ### About me
 
 <samp>
-Hello there! 👋 My name is Vitalii Sili Full Stack Developer, 
-and I'm an enthusiastic 🥇, imaginative 🎨, and insightful 🔭 
+Hello there! 👋 My name is Vitalii Sili, I'am Full Stack Developer, 
+enthusiastic 🥇, imaginative 🎨, and insightful 🔭 
 developer with a practical and hands-on approach to tackling 
 challenges, and an insatiable thirst for learning 📚. 
 My fascination lies in all things related to technology 💻. 
