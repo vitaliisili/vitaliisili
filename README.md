@@ -53,4 +53,5 @@ I'm always open to new ideas and opportunities.
 <br/>
 <div align="center">
     [![](https://visitcount.itsvg.in/api?id=vitaliisili&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
+    [![](https://visitcount.itsvg.in/api?id=vitaliisili/vitaliisili8&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
 </div>
