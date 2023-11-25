@@ -55,5 +55,4 @@ I'm always open to new ideas and opportunities.
     <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=vitaliisili&label=Profile%20Views&color=0&pretty=false" />
 </a>
-<!--     [![](https://visitcount.itsvg.in/api?id=vitaliisili&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in) -->
 </div>
