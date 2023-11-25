@@ -52,6 +52,6 @@ I'm always open to new ideas and opportunities.
 </p>
 <br/>
 <div align="center">
-    ![Visitor Count](https://profile-counter.glitch.me/{vitaliisili}/count.svg)
+    ![](https://komarev.com/ghpvc/?username=vitaliisili)
 </div>
-
+![](https://komarev.com/ghpvc/?username=vitaliisili)
