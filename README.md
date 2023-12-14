@@ -51,5 +51,5 @@ I'm always open to new ideas and opportunities.
     <img src="./assets/footer.svg">
 </p>
 <p>
-    ![](https://hit.yhype.me/github/profile?user_id=41273646)
+    ![0](https://hit.yhype.me/github/profile?user_id=41273646)
 </p>
