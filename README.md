@@ -52,4 +52,5 @@ I'm always open to new ideas and opportunities.
 </p>
 
 ***
+![](https://komarev.com/ghpvc/?username=vitaliisili&style=for-the-badge)
 ![](https://hit.yhype.me/github/profile?user_id=41273646)
