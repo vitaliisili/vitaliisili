@@ -50,4 +50,6 @@ I'm always open to new ideas and opportunities.
 <p align="center">
     <img src="./assets/footer.svg">
 </p>
-![](https://hit.yhype.me/github/profile?user_id=41273646)
+<p>
+    ![](https://hit.yhype.me/github/profile?user_id=41273646)
+</p>
