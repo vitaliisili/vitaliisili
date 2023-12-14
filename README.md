@@ -53,7 +53,7 @@ I'm always open to new ideas and opportunities.
 
 [//]: # (Views)
 
-<p align="center" style="margin-left: 40px">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=vitaliisili&style=for-the-badge" alt="Profile views">
 </p>
 
