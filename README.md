@@ -17,6 +17,7 @@ I'm always open to new ideas and opportunities.
 
 <br/>
 
+
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vitaliisili)
 
@@ -35,7 +36,6 @@ I'm always open to new ideas and opportunities.
 <br/>
 
 # 📊 GitHub Stats:
-[//]: # (STATS SECTION)
 <div align="center">
 <a href="https://github.com/vitaliisili/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitaliisili&theme=transparent&layout=compact&langs_count=8&card_width=320"/>
@@ -50,6 +50,6 @@ I'm always open to new ideas and opportunities.
 <p align="center">
     <img src="./assets/footer.svg">
 </p>
-<p>
-    ![0](https://hit.yhype.me/github/profile?user_id=41273646)
-</p>
+
+***
+![](https://hit.yhype.me/github/profile?user_id=41273646)
